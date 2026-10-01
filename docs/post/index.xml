@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Exnadio&#39;s Blog</title>
-        <link>https://oxidane-uni.github.io/post/</link>
+        <link>https://exnadio.github.io/post/</link>
         <description>Recent content in Posts on Exnadio&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Thu, 14 May 2026 11:45:14 +0800</lastBuildDate><atom:link href="https://oxidane-uni.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 14 May 2026 11:45:14 +0800</lastBuildDate><atom:link href="https://exnadio.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>简明碧蓝航线反和谐教程</title>
-        <link>https://oxidane-uni.github.io/p/%E7%AE%80%E6%98%8E%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF%E5%8F%8D%E5%92%8C%E8%B0%90%E6%95%99%E7%A8%8B/</link>
+        <link>https://exnadio.github.io/p/%E7%AE%80%E6%98%8E%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF%E5%8F%8D%E5%92%8C%E8%B0%90%E6%95%99%E7%A8%8B/</link>
         <pubDate>Thu, 14 May 2026 11:45:14 +0800</pubDate>
         
-        <guid>https://oxidane-uni.github.io/p/%E7%AE%80%E6%98%8E%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF%E5%8F%8D%E5%92%8C%E8%B0%90%E6%95%99%E7%A8%8B/</guid>
-        <description>&lt;img src="https://oxidane-uni.github.io/images/4featureimg/pfnqw.png" alt="Featured image of post 简明碧蓝航线反和谐教程" /&gt;&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
+        <guid>https://exnadio.github.io/p/%E7%AE%80%E6%98%8E%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF%E5%8F%8D%E5%92%8C%E8%B0%90%E6%95%99%E7%A8%8B/</guid>
+        <description>&lt;img src="https://exnadio.github.io/images/4featureimg/pfnqw.png" alt="Featured image of post 简明碧蓝航线反和谐教程" /&gt;&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
 &lt;p&gt;众所周知，由于有形的大手的原因，碧蓝航线的国服在部分内容的呈现方式上与外服是有差异的。但是，通过一些操作，我们是可以获得与外服相近的游戏体验的。这样的操作通常被称为“反和谐（fhx）”，本文要介绍的就是在 Android 系统下的碧蓝反和谐方法。&lt;/p&gt;
 &lt;p&gt;至于 iOS 的反和谐方法，请参照&lt;a class=&#34;link&#34; href=&#34;https://www.ghzs666.com/bbs/thread-78309&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;这篇方法&lt;/a&gt;，若是旧版本的 iOS，也可以使用 Troll Store 安装文件管理器操作。&lt;/p&gt;
@@ -25,7 +25,7 @@
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;介绍&#34;&gt;介绍&lt;/h2&gt;
 &lt;p&gt;反和谐操作本质上就是修改&lt;strong&gt;游戏文件夹&lt;/strong&gt;下的 &lt;code&gt;localization.txt&lt;/code&gt; 文件（路径为： &lt;code&gt;./Android/data/com.bilibili.azurlane/files&lt;/code&gt;），只需将 txt 文件中的两个值由 &lt;strong&gt;&lt;code&gt;false&lt;/code&gt;&lt;/strong&gt; 改为 &lt;strong&gt;&lt;code&gt;true&lt;/code&gt;&lt;/strong&gt; 即可，如图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/260514/RDU.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/260514/RDU.png&#34;
 	
 	
 	
@@ -35,7 +35,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/260514/Umf.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/260514/Umf.png&#34;
 	
 	
 	
@@ -48,7 +48,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;原文件如图所示&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/260514/FMd.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/260514/FMd.png&#34;
 	
 	
 	
@@ -62,7 +62,7 @@
 &lt;p&gt;修改完应如图所示&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;进入游戏就可以看到反和谐生效，比如舰船的名字：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/260514/Hxd.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/260514/Hxd.png&#34;
 	
 	
 	
@@ -72,7 +72,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/260514/Fhx.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/260514/Fhx.png&#34;
 	
 	
 	
@@ -86,7 +86,7 @@
 &lt;p&gt;理论上我们只需要打开文件管理器，修改好 localization.txt 后保存就可以打开碧蓝航线遨游了，但是，事实真的如此简单吗？&lt;/p&gt;
 &lt;p&gt;答案显然是否定的，否则就不会有这篇文章了。&lt;/p&gt;
 &lt;p&gt;当我们试图使用一般的文件管理器打开 &lt;code&gt;./Android/data&lt;/code&gt; 这个文件夹时，通常会一头撞上南墙：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/260514/Er1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/260514/Er1.png&#34;
 	
 	
 	
@@ -96,7 +96,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/260514/Er2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/260514/Er2.jpg&#34;
 	
 	
 	
@@ -108,7 +108,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;这是因为自 Android 11 起，Google 强制推行了分区存储机制以保护用户的隐私与应用数据安全。在这一机制下，应用只能只能在自己的私有目录下读写，以我使用的 Material Files 为例，作为第三方应用的它无法访问属于碧蓝航线的私有目录（各定制“系统”自带的文件管理亦是如此）。总体而言这并不是一件坏事——尤其是在流氓软件大行其道的情况下——但对我们来说就不是了。&lt;/p&gt;
 &lt;p&gt;不过解决办法也很简单：权限不够那就 Root。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/260514/Rfi.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/260514/Rfi.png&#34;
 	
 	
 	
@@ -127,7 +127,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;比如，这个&lt;a class=&#34;link&#34; href=&#34;https://github.com/tc7326/android11data&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;data访问器 App&lt;/a&gt;就能调起 DocumentsUI。在这个界面下就可以看到并访问 &lt;code&gt;./Android/data&lt;/code&gt; 下的目录了，接着依上文所述找到游戏文件夹并修改 &lt;code&gt;localization.txt&lt;/code&gt; 文件即可。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/260514/DoI.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/260514/DoI.jpg&#34;
 	
 	
 	
@@ -137,7 +137,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/260514/Duf.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/260514/Duf.jpg&#34;
 	
 	
 	
@@ -153,7 +153,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;对于 ColorOS，你也应该可以直接通过自带的文件管理器拉起 DocumentsUI，其它定制系统也可以尝试一下自带的文件管理是否有此功能&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/260514/Cpw.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/260514/Cpw.jpg&#34;
 	
 	
 	
@@ -170,15 +170,15 @@
         </item>
         <item>
         <title>苹果 PowerBook 48pin SCSI 硬盘接口探究</title>
-        <link>https://oxidane-uni.github.io/p/%E8%8B%B9%E6%9E%9C-powerbook-48pin-scsi-%E7%A1%AC%E7%9B%98%E6%8E%A5%E5%8F%A3%E6%8E%A2%E7%A9%B6/</link>
+        <link>https://exnadio.github.io/p/%E8%8B%B9%E6%9E%9C-powerbook-48pin-scsi-%E7%A1%AC%E7%9B%98%E6%8E%A5%E5%8F%A3%E6%8E%A2%E7%A9%B6/</link>
         <pubDate>Fri, 05 Jul 2024 15:33:07 +0800</pubDate>
         
-        <guid>https://oxidane-uni.github.io/p/%E8%8B%B9%E6%9E%9C-powerbook-48pin-scsi-%E7%A1%AC%E7%9B%98%E6%8E%A5%E5%8F%A3%E6%8E%A2%E7%A9%B6/</guid>
-        <description>&lt;img src="https://oxidane-uni.github.io/images/4featureimg/6ZMRZKdA2Yf3jfKD.jpg" alt="Featured image of post 苹果 PowerBook 48pin SCSI 硬盘接口探究" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>https://exnadio.github.io/p/%E8%8B%B9%E6%9E%9C-powerbook-48pin-scsi-%E7%A1%AC%E7%9B%98%E6%8E%A5%E5%8F%A3%E6%8E%A2%E7%A9%B6/</guid>
+        <description>&lt;img src="https://exnadio.github.io/images/4featureimg/6ZMRZKdA2Yf3jfKD.jpg" alt="Featured image of post 苹果 PowerBook 48pin SCSI 硬盘接口探究" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;在&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/av1656008990/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;翻译视频&lt;/a&gt;的时候，我对苹果 PowerBook 上的 SCSI 硬盘所采用的接口产生了兴趣。&lt;/p&gt;
 &lt;p&gt;虽然很多资料明确地指出苹果在 PowerBook 上使用了 SCSI 硬盘，然而其接口形态却明显有别于台式机上的标准 SCSI 接口，关于这个冷门接口似乎并无多少资料，甚至这个接口的名字都找不到。不过幸运的是，我还是找到了一部分介绍，就放在这里做个集合吧。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/240718/PCSCSI.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/240718/PCSCSI.png&#34;
 	
 	
 	
@@ -191,7 +191,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;图为常见的一种 SCSI 接口&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/240718/CUKVV.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/240718/CUKVV.jpg&#34;
 	
 	
 	
@@ -207,7 +207,7 @@
 &lt;h2 id=&#34;介绍&#34;&gt;介绍&lt;/h2&gt;
 &lt;p&gt;首先是&lt;a class=&#34;link&#34; href=&#34;https://vintagemacmuseum.com/reading-powerbook-2-5-scsi-hard-drives/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;vintage macmuseum&lt;/a&gt;上的一篇博文指出，这个接口本身是可以通过一些妙妙操作转接为最为常见的 SCSI 接口的，同时还介绍了几种转接方式。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/240718/PB-SCSI-Adapter1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/240718/PB-SCSI-Adapter1.jpg&#34;
 	
 	
 	
@@ -220,7 +220,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;你能看到用于供电的 Molex 接口以及转接出来的 SCSI 数据接口&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/240718/TDNC.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/240718/TDNC.png&#34;
 	
 	
 	
@@ -235,7 +235,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;不过真正帮了大忙的是&lt;a class=&#34;link&#34; href=&#34;https://superuser.com/questions/1527997/what-is-this-48-pin-laptop-hard-drive-connector#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;superuser 上的一个问题&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/240718/spur.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/240718/spur.png&#34;
 	
 	
 	
@@ -247,7 +247,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;以及&lt;a class=&#34;link&#34; href=&#34;https://68kmla.org/bb/index.php?threads/40p-scsi-to-50p-scsi.8047/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;68kmla上的一个帖子&lt;/a&gt;，甚至连针脚定义图都给了，卧虎藏龙啊。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/240718/68kmla.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/240718/68kmla.png&#34;
 	
 	
 	
@@ -258,7 +258,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;另外，那个帖子里甚至还有人给出了一个 eBay 链接，眼熟。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/240718/ebay.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/240718/ebay.png&#34;
 	
 	
 	
@@ -271,7 +271,7 @@
 &lt;h2 id=&#34;接口布局&#34;&gt;接口布局&lt;/h2&gt;
 &lt;p&gt;回到接口本身。实际上这个接口运行的还是 SCSI 协议，所以其实仅仅在接口的物理形态上有所不同。&lt;/p&gt;
 &lt;p&gt;就如之前所说，虽然在有时会被描述为“50pin”，但该接口实际只有 48pin，排布如图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/240718/connector.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/240718/connector.png&#34;
 	
 	
 	
@@ -283,7 +283,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;其中左侧 40pin 部分用于供电与数据传输，右侧 8pin 负责 SCSI ID。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;左侧部分&lt;/strong&gt;定义如下：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/240718/pdefc.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/240718/pdefc.png&#34;
 	
 	
 	
@@ -294,7 +294,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;右侧部分&lt;/strong&gt;定义如下：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/240718/pdefs.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/240718/pdefs.png&#34;
 	
 	
 	
@@ -307,7 +307,7 @@
 &lt;p&gt;更多的信息，可以参考&lt;a class=&#34;link&#34; href=&#34;http://powerbook.micahgartman.com/dev/dn_duo_250.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;这个链接&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;所以当我们回过头来看先前所提到的转接板时就能很明显地看出其与通用 SCSI 接口的对应关系。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/240718/s-l1600.webp&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/240718/s-l1600.webp&#34;
 	
 	
 	
@@ -317,7 +317,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/240718/scsi.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/240718/scsi.jpg&#34;
 	
 	
 	
@@ -329,7 +329,7 @@
 &gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;这接口只有 5V，所以其实这里 Molex 只用上了里边的 5V（说实话我还是第一次知道 Molex 里有 5V）
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/240718/molex.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/240718/molex.png&#34;
 	
 	
 	
@@ -355,11 +355,11 @@
         </item>
         <item>
         <title>将博客评论系统由 utterance 迁移至 giscus</title>
-        <link>https://oxidane-uni.github.io/p/%E5%B0%86%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%94%B1-utterance-%E8%BF%81%E7%A7%BB%E8%87%B3-giscus/</link>
+        <link>https://exnadio.github.io/p/%E5%B0%86%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%94%B1-utterance-%E8%BF%81%E7%A7%BB%E8%87%B3-giscus/</link>
         <pubDate>Sat, 18 Nov 2023 17:20:26 +0800</pubDate>
         
-        <guid>https://oxidane-uni.github.io/p/%E5%B0%86%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%94%B1-utterance-%E8%BF%81%E7%A7%BB%E8%87%B3-giscus/</guid>
-        <description>&lt;img src="https://oxidane-uni.github.io/images/4featureimg/giscus.jpg" alt="Featured image of post 将博客评论系统由 utterance 迁移至 giscus" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>https://exnadio.github.io/p/%E5%B0%86%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%94%B1-utterance-%E8%BF%81%E7%A7%BB%E8%87%B3-giscus/</guid>
+        <description>&lt;img src="https://exnadio.github.io/images/4featureimg/giscus.jpg" alt="Featured image of post 将博客评论系统由 utterance 迁移至 giscus" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;之前建博客的时候没听说过giscus，使用的是utterance。&lt;/p&gt;
 &lt;p&gt;不过看起来giscus的功能相对更优，而且之前配置博客时没有进行相应的记录，因此干脆直接换成giscus了。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这里需要感谢&lt;a class=&#34;link&#34; href=&#34;https://github.com/chuxinyuan&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -377,7 +377,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;p&gt;giscus的配置还是相当简单的。&lt;/p&gt;
 &lt;p&gt;首先，准备一个github仓库，这里我用的是原先utterance的仓库。&lt;/p&gt;
 &lt;p&gt;接下来在仓库的设置界面开启 Discussions 功能：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/231119/discussion.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/231119/discussion.png&#34;
 	
 	
 	
@@ -389,7 +389,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &gt;&lt;/p&gt;
 &lt;p&gt;接下来的操作就是相当简单且无脑了，你需要做的就是在 github 上安装 &lt;a class=&#34;link&#34; href=&#34;https://github.com/apps/giscus&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;giscus APP&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/231119/installation.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/231119/installation.png&#34;
 	
 	
 	
@@ -401,7 +401,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &gt;&lt;/p&gt;
 &lt;p&gt;具体的安装过程不再赘述，安装完毕后就只需打开&lt;a class=&#34;link&#34; href=&#34;https://giscus.app&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;giscus官网&lt;/a&gt;，输入具体的仓库名称（或者仓库链接）：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/231119/input.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/231119/input.png&#34;
 	
 	
 	
@@ -412,7 +412,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;若该仓库可用，那么就可以随着官网的说明一步步配置下去。配置完成后便可在 &lt;strong&gt;启用 giscus&lt;/strong&gt; 下找到需要的代码：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/231119/demo.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/231119/demo.png&#34;
 	
 	
 	
@@ -438,7 +438,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;之后再在giscus那栏中填入官网代码中的相应内容即可。&lt;/p&gt;
 &lt;p&gt;当然&lt;code&gt;config.yaml&lt;/code&gt;中缺少了部分选项，你也可以直接将需要的js代码放进&lt;code&gt;./themes/hugo-theme-stack/layouts/partials/comments/provider/giscus.html&lt;/code&gt;里：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/231119/html.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/231119/html.png&#34;
 	
 	
 	
@@ -454,7 +454,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;p&gt;utterance 之类使用 Github issue 实现的评论系统的内容是可以转换为相应的 discussion的，详见&lt;a class=&#34;link&#34; href=&#34;https://docs.github.com/zh/discussions/managing-discussions-for-your-community/moderating-discussions#converting-an-issue-to-a-discussion&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;将议题转换为讨论&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;只需在相应库的 issues 界面的 labels 处将相应 label 转换为 discussion 即可（假如没标注的话请自行添加）。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/231119/convert.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/231119/convert.png&#34;
 	
 	
 	
@@ -474,11 +474,11 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
         </item>
         <item>
         <title>洋垃圾之美：Hardcider Labs Slicecharge3 Pro评测</title>
-        <link>https://oxidane-uni.github.io/p/%E6%B4%8B%E5%9E%83%E5%9C%BE%E4%B9%8B%E7%BE%8Ehardcider-labs-slicecharge3-pro%E8%AF%84%E6%B5%8B/</link>
+        <link>https://exnadio.github.io/p/%E6%B4%8B%E5%9E%83%E5%9C%BE%E4%B9%8B%E7%BE%8Ehardcider-labs-slicecharge3-pro%E8%AF%84%E6%B5%8B/</link>
         <pubDate>Tue, 02 May 2023 22:10:11 +0800</pubDate>
         
-        <guid>https://oxidane-uni.github.io/p/%E6%B4%8B%E5%9E%83%E5%9C%BE%E4%B9%8B%E7%BE%8Ehardcider-labs-slicecharge3-pro%E8%AF%84%E6%B5%8B/</guid>
-        <description>&lt;img src="https://oxidane-uni.github.io/images/4featureimg/slcp3.jpeg" alt="Featured image of post 洋垃圾之美：Hardcider Labs Slicecharge3 Pro评测" /&gt;&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/adapter_nga.jpg&#34;
+        <guid>https://exnadio.github.io/p/%E6%B4%8B%E5%9E%83%E5%9C%BE%E4%B9%8B%E7%BE%8Ehardcider-labs-slicecharge3-pro%E8%AF%84%E6%B5%8B/</guid>
+        <description>&lt;img src="https://exnadio.github.io/images/4featureimg/slcp3.jpeg" alt="Featured image of post 洋垃圾之美：Hardcider Labs Slicecharge3 Pro评测" /&gt;&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/adapter_nga.jpg&#34;
 	
 	
 	
@@ -492,7 +492,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;h2 id=&#34;关于hardcider-labs&#34;&gt;关于“Hardcider Labs”&lt;/h2&gt;
 &lt;p&gt;由于这玩意我是真的很喜欢，所以稍微去查了下这个“HardCider Labs”。根据他们寥寥无几的介绍，这是一个果式配件商，其余我就再也查不到了。
 这小厂的官网虽然还在：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/hardciderwebsite2.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/hardciderwebsite2.png&#34;
 	
 	
 	
@@ -501,7 +501,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 &gt;&lt;br&gt;
 但是我觉得这厂应该已经跑路了，网站上挂的优惠码还是2022的，Twitter官号也没更新过了，乐。基本所有的商品都是sold out状态，现在还能买的就是一款Apple watch的表带&amp;hellip;&amp;hellip;&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/harciderwebsite1.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/harciderwebsite1.png&#34;
 	
 	
 	
@@ -510,7 +510,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 &gt;&lt;br&gt;
 我猜这玩意估计是啥Kickstarter品牌，但是不得不说，做的玩意看上去都不错。
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/hardciderwebsite3.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/hardciderwebsite3.png&#34;
 	
 	
 	
@@ -521,7 +521,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;h2 id=&#34;开箱与功能介绍&#34;&gt;开箱与功能介绍&lt;/h2&gt;
 &lt;h3 id=&#34;开箱&#34;&gt;开箱&lt;/h3&gt;
 &lt;p&gt;虽说是“洋垃圾”，但是我买到的是“原盒原封”，所以还是当个普通用户，来一次“开箱体验”：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/openboxslp1.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/openboxslp1.jpg&#34;
 	
 	
 	
@@ -531,7 +531,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &gt;&lt;br&gt;
 包装就是个蛮精致的黑色天地盖纸盒，印有一些介绍，但我得说一句，我寻思你这Qi充电器怎么能触发iPhone的MagSafe动画？&lt;br&gt;
 打开盒子，迎接我们的便是说明书和充电器的主体：
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/openboxslp2.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/openboxslp2.png&#34;
 	
 	
 	
@@ -540,7 +540,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 &gt;&lt;br&gt;
 说明书有一堆洋文，但是就是没中文，一看就是出口的玩意：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/man1.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/man1.jpg&#34;
 	
 	
 	
@@ -548,7 +548,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 	
 &gt;&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/man2.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/man2.jpg&#34;
 	
 	
 	
@@ -556,7 +556,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 	
 &gt;&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/man3.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/man3.jpg&#34;
 	
 	
 	
@@ -567,7 +567,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 不过这说明书上也就写到iPhone 12,不知道是什么时候的库存,另外接口标注也是错的，30W标成18W &lt;del&gt;真就小厂&lt;/del&gt;。&lt;br&gt;
 充电器本体的用料倒是非常舍得：全金属机身、布面工艺正面，使得我不能不给出一个“性感”的评价，做工实在是符合其原价150刀的水准，“漂亮得不像实力派”。&lt;br&gt;
 取出塑料隔板后便是适配器和四个不同供电规格的更换插座：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/openboxslp3.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/openboxslp3.png&#34;
 	
 	
 	
@@ -582,7 +582,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;h4 id=&#34;无线端&#34;&gt;无线端&lt;/h4&gt;
 &lt;p&gt;正面是无线充电区域，最大可同时支持三台Qi协议设备进行充电。&lt;br&gt;
 以及一个可旋转的Mfi Apple Watch充电器（需要注意的是，当这玩意翻起时便会与一个充电位冲突，此时该充电位就只能放TWS之类的小玩意了）。&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/scenario1.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/scenario1.jpg&#34;
 	
 	
 	
@@ -590,7 +590,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 	
 &gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/scenario2.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/scenario2.jpg&#34;
 	
 	
 	
@@ -599,7 +599,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 &gt;
 值得好评的是它的侧面带有三个指示灯，可以指示充电状态：比如右边正在充电就会亮右边的灯。
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/indicator.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/indicator.jpg&#34;
 	
 	
 	
@@ -609,7 +609,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;有线端&#34;&gt;有线端&lt;/h4&gt;
 &lt;p&gt;侧面的另一侧便是有线的输入/输出端，分别是&lt;strong&gt;DC in&lt;/strong&gt;、&lt;strong&gt;USB A&lt;/strong&gt;、&lt;strong&gt;USB C&lt;/strong&gt; (从左到右)
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/ports.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/ports.jpg&#34;
 	
 	
 	
@@ -620,7 +620,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 其中USB A支持最高18w的QC 3.0快充，USB C则在此基础上支持最高30w的PD。&lt;br&gt;
 具体的协议支持之后再补充。&lt;br&gt;
 不过我有一点要说，怎么定位低一档的Slicecharge3的母口胶芯都能做到相同，到这个更加高端定位的Pro版本上就拉了呢？
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/compare.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/compare.jpg&#34;
 	
 	
 	
@@ -631,7 +631,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;h4 id=&#34;适配器&#34;&gt;适配器&lt;/h4&gt;
 &lt;p&gt;适配器DC口，最大输出大概就是65w（我寻思15v直接用PD不就行），支持100v~240V宽幅输入，体积也很大。65w倒也是够用，但是严格来说绝对不能支撑这玩意最大功率（30+18+5+3*10w）输出（我觉得这玩意也没啥满功率场景）。&lt;br&gt;
 提供了美规、澳规、欧规、英规接口，它甚至是编！织！线！
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/adapter.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/adapter.jpg&#34;
 	
 	
 	
@@ -643,7 +643,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;p&gt;编织线就是好文明&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;装上插脚后，这玩意的高度就进一步膨胀：
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/adapter2.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/adapter2.jpg&#34;
 	
 	
 	
@@ -653,7 +653,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &gt;&lt;br&gt;
 虽然美规的二脚插脚与我国插座通用，但我也不建议您使用这个插脚，相反，我推荐您使用不那么通用（可能打不开部分新国标插座的安全门） 的澳标。&lt;br&gt;
 为什么呢？因为这玩意体积大得一批，再加上插脚与本体极高的间隙，这玩意使用美规插座时就跟个跷跷板一样，笑死。
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/adapter3.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/adapter3.jpg&#34;
 	
 	
 	
@@ -661,7 +661,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 	
 &gt;&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/adapter4.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/adapter4.jpg&#34;
 	
 	
 	
@@ -674,7 +674,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;/blockquote&gt;
 &lt;p&gt;顺带一提，这玩意的供应商居然是&lt;a class=&#34;link&#34; href=&#34;http://www.xinspower.cn/a653_65w%E7%B3%BB%E5%88%97_86298/a653-xxxyyyyi.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;深圳新斯宝&lt;/a&gt;,不过应该是特制了编织线。&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/xinspower.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/xinspower.png&#34;
 	
 	
 	
@@ -683,7 +683,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;最后，背后就没啥玩意了，只有两条长防滑垫和铭牌:&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/back.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/back.jpg&#34;
 	
 	
 	
@@ -692,7 +692,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 &gt;&lt;br&gt;
 铭牌居然还是镜面，精致感确实足。
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/dataplate.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/dataplate.jpg&#34;
 	
 	
 	
@@ -702,7 +702,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;内部结构&#34;&gt;内部结构&lt;/h2&gt;
 &lt;p&gt;由于我不会拆&lt;del&gt;也舍不得拆&lt;/del&gt;，因此就使用卖家提供的拆解图片了。&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/teardown2.JPG&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/teardown2.JPG&#34;
 	
 	
 	
@@ -711,7 +711,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 &gt;&lt;br&gt;
 可以看到，这玩意虽然是“多线圈”，但是与Airpower、Tesla和小米之类的解决方案可谓是有云泥之别：别人使用了多层线圈来实现“全覆盖”“放哪都能充”，而Hardcider Labs的这款线圈数量仅相当于别人的一层。&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/airpower.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/airpower.jpg&#34;
 	
 	
 	
@@ -721,7 +721,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 	
 &gt;&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/xiaomi.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/xiaomi.jpg&#34;
 	
 	
 	
@@ -731,7 +731,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 	
 &gt;&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/teardown.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/teardown.png&#34;
 	
 	
 	
@@ -749,7 +749,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;blockquote&gt;
 &lt;p&gt;其实这倒也不难理解，apple watch的mfi认证出货的应该就是一整个充电模组&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/teardown3.JPG&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/teardown3.JPG&#34;
 	
 	
 	
@@ -758,7 +758,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 &gt;&lt;br&gt;
 内部芯片用料倒是难称豪华：采用了方昕科技（别说，名字不错）的NKola 9018。不过我也不锐评了，反正也懂都不懂（又不是不能用.jpg）。&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/n9018.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/n9018.png&#34;
 	
 	
 	
@@ -767,7 +767,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 &gt;
 不过我在找data sheet的时候发现了这公司本身就提供公版方案，看来这小厂也就搞了个外壳设计，笑死。
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/n9018solution.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/n9018solution.png&#34;
 	
 	
 	
@@ -775,7 +775,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 	
 &gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/teardown.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/teardown.png&#34;
 	
 	
 	
@@ -791,7 +791,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;p&gt;我手上支持无线充电的机子就两台：iPhone13 与 LG G7 (还有个AirPods Pro)，本次评测便以这两台机子的体验为准。&lt;/p&gt;
 &lt;h3 id=&#34;对于充电器的体验&#34;&gt;对于充电器的体验&lt;/h3&gt;
 &lt;p&gt;作为一个“多线圈无线充电器” ，它最大的优点就是多设备充电支持，同时宽裕的空间使得它是“两台设备随便放，三台设备规矩放”，体验虽说不及真·多线圈，但也算舒服。&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/1223.jpeg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/1223.jpeg&#34;
 	
 	
 	
@@ -819,7 +819,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 首先，无线充电绝没有它听起来的那般美好：放上手机，充好，拿走，去他妈的线，我们“极客”的桌面讲究的就是一个,啊,整洁。&lt;br&gt;
 理论上你能拿到一台满电的、和你放上去时一样的手机，实际上你会拿到一台很烫的的手机——一句话概括iPhone无线充电体验。&lt;br&gt;
 虽然iPhone已经有了专有的无线充电方案——Magsafe（🤣👉“22.5w&amp;quot;），但是库克大人还是大发慈悲，兼容着Qi协议这高低也算是自己写的协议（另一个您发起的接口怎么需要10年来改变呢？），但是iPhone的无线充电体验实在是不太“优雅”。&lt;strong&gt;iPhone低能的充电、散热设计和低效的无线充电可谓是一对Best Match&lt;/strong&gt;：即使功率7.5w，iPhone也能稳定发热到到烫手的程度。&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/kidding.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/kidding.png&#34;
 	
 	
 	
@@ -832,7 +832,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;/blockquote&gt;
 &lt;p&gt;虽然有这么多的手机厂商做无线充电，但是其实各个厂商的线圈位置不尽相同，在一台手机上能充电的线圈位置，在另一台手机上就不一定能充上。这就需要你去对准无线充的线圈，不是随手一放就行。这玩意至少是个单层多线圈，相对而言可以更随意，但是做不到真·多线圈的“放下不管”，这个问题在立式无线充上更甚。&lt;br&gt;
 比如这玩意就有配套的支架，磁吸在那个精致的铭牌处便可变身立式无线充：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/stand.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/stand.jpg&#34;
 	
 	
 	
@@ -845,7 +845,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 当然我捡垃圾的地方也在买，25一套，没抢到，不然我高低也整一套评测。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;装好是这样的：
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230502/extendedslc.jpg&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230502/extendedslc.jpg&#34;
 	
 	
 	
@@ -881,11 +881,11 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
         </item>
         <item>
         <title>使用 Hugo 对博客的重建与 Stack 主题优化记录</title>
-        <link>https://oxidane-uni.github.io/p/%E4%BD%BF%E7%94%A8-hugo-%E5%AF%B9%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%87%8D%E5%BB%BA%E4%B8%8E-stack-%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96%E8%AE%B0%E5%BD%95/</link>
+        <link>https://exnadio.github.io/p/%E4%BD%BF%E7%94%A8-hugo-%E5%AF%B9%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%87%8D%E5%BB%BA%E4%B8%8E-stack-%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96%E8%AE%B0%E5%BD%95/</link>
         <pubDate>Sat, 22 Apr 2023 14:56:05 +0800</pubDate>
         
-        <guid>https://oxidane-uni.github.io/p/%E4%BD%BF%E7%94%A8-hugo-%E5%AF%B9%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%87%8D%E5%BB%BA%E4%B8%8E-stack-%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96%E8%AE%B0%E5%BD%95/</guid>
-        <description>&lt;img src="https://oxidane-uni.github.io/images/4featureimg/azl.jpg" alt="Featured image of post 使用 Hugo 对博客的重建与 Stack 主题优化记录" /&gt;&lt;h2 id=&#34;为何再次重建博客&#34;&gt;为何再次重建博客？&lt;/h2&gt;
+        <guid>https://exnadio.github.io/p/%E4%BD%BF%E7%94%A8-hugo-%E5%AF%B9%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%87%8D%E5%BB%BA%E4%B8%8E-stack-%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96%E8%AE%B0%E5%BD%95/</guid>
+        <description>&lt;img src="https://exnadio.github.io/images/4featureimg/azl.jpg" alt="Featured image of post 使用 Hugo 对博客的重建与 Stack 主题优化记录" /&gt;&lt;h2 id=&#34;为何再次重建博客&#34;&gt;为何再次重建博客？&lt;/h2&gt;
 &lt;p&gt;是，我知道我上次更新博客是 2021 年，但是这个博客我的确是没有忘的。&lt;del&gt;（主播只是入狱了）&lt;/del&gt;&lt;br&gt;
 实际上这个博客是我在 21 年暑假用Hugo建的，使用的是 Eureka 主题。整体效果确实非常不错，但遗憾的是配置过程极其奇怪：虽说有专门的&lt;a class=&#34;link&#34; href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;说明文档&lt;/a&gt;,但是于我而言这玩意写得实在是不太友好，所以当时我的配置过程纯粹靠蒙，虽说最后还是搞出来了，但确实是一种折磨。&lt;br&gt;
@@ -902,7 +902,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
     &gt;releases&lt;/a&gt;和 Git 的&lt;a class=&#34;link&#34; href=&#34;https://git-scm.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;官网&lt;/a&gt;都能很方便地下载。我选择的是 hugo_extended_0.111.2_windows-amd64.zip
 版本，以便后续折腾。下载完成后将压缩包里的东西解压至你喜欢的目录，再将该目录的路径添加到环境变量中以便后续调用。至于 Git 的安装，我就不再赘述了。&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/path.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/path.png&#34;
 	
 	
 	
@@ -983,7 +983,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;即可建立一个本地服务器。&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/hugoserver.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/hugoserver.png&#34;
 	
 	
 	
@@ -1000,7 +1000,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 &lt;code&gt;hugo new post/rebuild_blog.md&lt;/code&gt;
 打开后你会发现生成的Markdown文档带有一段FrontMatter部分，具体的意思可以在&lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/writing/frontmatter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;这里&lt;/a&gt;找到。大体上可以认为是文档的一些属性。&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/frontmatter.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/frontmatter.png&#34;
 	
 	
 	
@@ -1066,7 +1066,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 &lt;p&gt;已将评论系统改为 giscus，配置过程见&lt;a class=&#34;link&#34; href=&#34;&#34; &gt;这里&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;stack主题自定义&#34;&gt;Stack主题自定义&lt;/h2&gt;
 &lt;p&gt;首先放一下对比图：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/lightmode_default.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/lightmode_default.png&#34;
 	
 	
 	
@@ -1074,7 +1074,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 	
 	
 &gt; &lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/lightmode_modified.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/lightmode_modified.png&#34;
 	
 	
 	
@@ -1094,7 +1094,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 &lt;p&gt;因此，想要自定义就很简单了：找到你希望修改的元素和它对应的选择器，重新定义这个选择器即可。&lt;br&gt;
 万幸，目前的浏览器为我们提供了好用的开发者工具。以我现在使用的Edge为例，按下&lt;code&gt;F12&lt;/code&gt;弹出开发者工具，使用左上角的小箭头使你的鼠标变成一个查看器(你也可以使用&lt;code&gt;SHIFT&lt;/code&gt;+&lt;code&gt;CTRL&lt;/code&gt;+&lt;code&gt;C&lt;/code&gt;的组合键)，只要将光标置于你想修改的元素上，就能找到该元素的源代码。&lt;br&gt;
 例如我现在想改浅色模式下的文本颜色，只需选择一段文本,就能在右下角找到它对应的css:&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/css_selected.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/css_selected.png&#34;
 	
 	
 	
@@ -1102,7 +1102,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 	
 	
 &gt;&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/css_txt.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/css_txt.png&#34;
 	
 	
 	
@@ -1112,7 +1112,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 &gt;&lt;br&gt;
 可以看到文本被指定为&lt;code&gt;---body-text-color&lt;/code&gt;。&lt;br&gt;
 再顺藤摸瓜找到对应的颜色控制：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/css_color.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/css_color.png&#34;
 	
 	
 	
@@ -1158,7 +1158,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;此时就能达到这种效果了：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/lightmode_modified.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/lightmode_modified.png&#34;
 	
 	
 	
@@ -1167,7 +1167,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Tag的修改我也说下，用上面的方法找到代码，发现：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/tagcolorcode.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/tagcolorcode.png&#34;
 	
 	
 	
@@ -1205,7 +1205,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;br&gt;
 改完之后我发现分类的 Tag 还是存在问题，虽说前几个颜色是对的，但是越往后走居然开始变色了：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/case.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/case.png&#34;
 	
 	
 	
@@ -1214,7 +1214,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 	
 &gt;&lt;br&gt;
 此时即使在custom.scss中指定了颜色也没啥用，看了下这玩意居然在是 element.style 写死的，多少有点搞：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/element_style.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/element_style.png&#34;
 	
 	
 	
@@ -1384,7 +1384,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 &lt;p&gt;Stack 主题带了几个很好看的 Tabler 图标，可惜并不全，部分缺失的图标要手动添加。&lt;br&gt;
 例如我想添加一个比比汗丽丽的图标，在&lt;a class=&#34;link&#34; href=&#34;https://tabler-icons.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt; Tabler 官网&lt;/a&gt;搜索发现居然真有：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/searchresult.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/searchresult.png&#34;
 	
 	
 	
@@ -1393,7 +1393,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 	
 &gt;&lt;br&gt;
 将svg文件其下载到&lt;code&gt;.\themes\hugo-theme-stack\assets\icons&lt;/code&gt;中，再调用即可。&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/implement.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/implement.png&#34;
 	
 	
 	
@@ -1402,7 +1402,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;另外，我也不是很喜欢自带的深色模式切换开关，以我个人的的观点来看，这玩意太不直观了：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/toggle.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/toggle.png&#34;
 	
 	
 	
@@ -1501,7 +1501,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;效果如下：&lt;br&gt;
-&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230422/sun.png&#34;
+&lt;img src=&#34;https://exnadio.github.io/images/4post/230422/sun.png&#34;
 	
 	
 	
@@ -1729,10 +1729,10 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
         </item>
         <item>
         <title>告Kafsela群友书</title>
-        <link>https://oxidane-uni.github.io/p/%E5%91%8Akafsela%E7%BE%A4%E5%8F%8B%E4%B9%A6/</link>
+        <link>https://exnadio.github.io/p/%E5%91%8Akafsela%E7%BE%A4%E5%8F%8B%E4%B9%A6/</link>
         <pubDate>Sat, 01 Apr 2023 11:38:55 +0800</pubDate>
         
-        <guid>https://oxidane-uni.github.io/p/%E5%91%8Akafsela%E7%BE%A4%E5%8F%8B%E4%B9%A6/</guid>
+        <guid>https://exnadio.github.io/p/%E5%91%8Akafsela%E7%BE%A4%E5%8F%8B%E4%B9%A6/</guid>
         <description>&lt;p&gt;亲爱的Kafsela成员们：&lt;/p&gt;
 &lt;p&gt;鉴于国内外的网络实际情况，我终止自己以Kafsela群主身份进行的活动。我作出这个决定，是出于原则性的考虑的。&lt;/p&gt;
 &lt;p&gt;我坚决主张Kafsela成员的独立自主，主张各种书写工具玩家拥有相同权利。但同时又主张维护Kafsela群聊内秩序的完整性。&lt;/p&gt;
@@ -1751,7 +1751,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 &lt;p&gt;我离开自己的岗位时忧心忡忡。不过同时也抱有希望，我相信你们的智慧和精神力量。我们是热爱文具的人们，我们是拥有自由博爱精神的人们。如今在诸如“一流玩家玩威尔永锋，三流玩家玩日本自动铅”等文具分级言论横行的凶险环境下，伟大的Kafsela精神能否振兴，完全取决于大家，取决于我们每一个人。&lt;/p&gt;
 &lt;p&gt;我想衷心感谢那些近年来与我一起坚持正义而美好的事业的Kafsela群友们。也许某些错误本来是可以避免的，许多事情可以做得更好。但是我相信我们的共同努力迟早会结出果实，Kafsela的精神必将永恒。&lt;/p&gt;
 &lt;p&gt;祝大家万事如意。我们再见。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230401/nidixunzong.GIF&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/230401/nidixunzong.GIF&#34;
 	
 	
 	
@@ -1763,10 +1763,10 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
         </item>
         <item>
         <title>随便写写之随便写写</title>
-        <link>https://oxidane-uni.github.io/p/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99%E4%B9%8B%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</link>
+        <link>https://exnadio.github.io/p/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99%E4%B9%8B%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</link>
         <pubDate>Sat, 21 Aug 2021 22:05:12 +0800</pubDate>
         
-        <guid>https://oxidane-uni.github.io/p/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99%E4%B9%8B%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</guid>
+        <guid>https://exnadio.github.io/p/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99%E4%B9%8B%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</guid>
         <description>&lt;h2 id=&#34;大概你oxidane的确是死了&#34;&gt;大概你oxidane的确是死了&lt;/h2&gt;
 &lt;p&gt;然而站终究还是没死，只是我摸了。&lt;/p&gt;
 &lt;p&gt;最近稍微更新了一下，把缩略字数优化了一下，加了评论。不过没push到库里就是了。&lt;/p&gt;
@@ -1780,13 +1780,13 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
         </item>
         <item>
         <title>随便写写</title>
-        <link>https://oxidane-uni.github.io/p/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</link>
+        <link>https://exnadio.github.io/p/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</link>
         <pubDate>Mon, 26 Jul 2021 13:06:57 +0800</pubDate>
         
-        <guid>https://oxidane-uni.github.io/p/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</guid>
+        <guid>https://exnadio.github.io/p/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</guid>
         <description>&lt;p&gt;搞鼓了两天，终于把这个博客搞得像样了一点。虽然说不是什么“文人雅士”，但是还是写点什么东西，纪念一下。没什么行文思路，纯粹胡扯。&lt;/p&gt;
 &lt;h2 id=&#34;梦开始的地方&#34;&gt;梦开始的地方&lt;/h2&gt;
-&lt;p&gt;其实这个博客很早就存在了，大概是19年左右吧。我记得是孙伯赫最初开始整博客的时候，我也跟着建了一个。非常简陋，只有一个Hello world界面。然后我就晾着不管了。&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230401/zouxian.jpg&#34;
+&lt;p&gt;其实这个博客很早就存在了，大概是19年左右吧。我记得是孙伯赫最初开始整博客的时候，我也跟着建了一个。非常简陋，只有一个Hello world界面。然后我就晾着不管了。&lt;img src=&#34;https://exnadio.github.io/images/4post/230401/zouxian.jpg&#34;
 	
 	
 	
@@ -1808,7 +1808,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 &lt;p&gt;最大的问题来自于我选择的Eureka主题，虽说有详细的&lt;a class=&#34;link&#34; href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;教程&lt;/a&gt;，可是有些时候我按教程上所说的做了，却没有效果。比如这个网站的icon，在教程里说是可以自定义的，然而实际上当我在config文件里修改的时候就会疯狂报错，最后只能替换掉主题里自带的图片草草了事（It just worked）。&lt;/p&gt;
 &lt;p&gt;还有很多莫名其妙的问题，可我完全不知道到底发生了什么，只能一点一点的摸索，往往要花费几个小时（在网上还搜不到解决方案，简直就是折磨）。感觉就是全麻，只会一个Ctrl+C和Ctrl+V，而且还会再附加上我自己的一堆错误，比如说不小心把cmd关掉，一切又得重头开始。&lt;/p&gt;
-&lt;p&gt;甚至就在写这篇文章的时候，又出现了奇怪的问题，导致我又花费了几个小时。&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230401/Failed.jpg&#34;
+&lt;p&gt;甚至就在写这篇文章的时候，又出现了奇怪的问题，导致我又花费了几个小时。&lt;img src=&#34;https://exnadio.github.io/images/4post/230401/Failed.jpg&#34;
 	
 	
 	
@@ -1821,7 +1821,7 @@ Stack本身有全英文的&lt;a class=&#34;link&#34; href=&#34;https://stack.jim
 &lt;blockquote&gt;
 &lt;p&gt;不知道是什么意思&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;本来打算删库跑路，不过还是坚持下来了。现在想来，妈妈的。&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/230401/angry.gif&#34;
+&lt;p&gt;本来打算删库跑路，不过还是坚持下来了。现在想来，妈妈的。&lt;img src=&#34;https://exnadio.github.io/images/4post/230401/angry.gif&#34;
 	
 	
 	

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>giscus on Exnadio&#39;s Blog</title>
-        <link>https://oxidane-uni.github.io/tags/giscus/</link>
+        <link>https://exnadio.github.io/tags/giscus/</link>
         <description>Recent content in giscus on Exnadio&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 18 Nov 2023 17:20:26 +0800</lastBuildDate><atom:link href="https://oxidane-uni.github.io/tags/giscus/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 18 Nov 2023 17:20:26 +0800</lastBuildDate><atom:link href="https://exnadio.github.io/tags/giscus/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>将博客评论系统由 utterance 迁移至 giscus</title>
-        <link>https://oxidane-uni.github.io/p/%E5%B0%86%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%94%B1-utterance-%E8%BF%81%E7%A7%BB%E8%87%B3-giscus/</link>
+        <link>https://exnadio.github.io/p/%E5%B0%86%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%94%B1-utterance-%E8%BF%81%E7%A7%BB%E8%87%B3-giscus/</link>
         <pubDate>Sat, 18 Nov 2023 17:20:26 +0800</pubDate>
         
-        <guid>https://oxidane-uni.github.io/p/%E5%B0%86%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%94%B1-utterance-%E8%BF%81%E7%A7%BB%E8%87%B3-giscus/</guid>
-        <description>&lt;img src="https://oxidane-uni.github.io/images/4featureimg/giscus.jpg" alt="Featured image of post 将博客评论系统由 utterance 迁移至 giscus" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>https://exnadio.github.io/p/%E5%B0%86%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%94%B1-utterance-%E8%BF%81%E7%A7%BB%E8%87%B3-giscus/</guid>
+        <description>&lt;img src="https://exnadio.github.io/images/4featureimg/giscus.jpg" alt="Featured image of post 将博客评论系统由 utterance 迁移至 giscus" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;之前建博客的时候没听说过giscus，使用的是utterance。&lt;/p&gt;
 &lt;p&gt;不过看起来giscus的功能相对更优，而且之前配置博客时没有进行相应的记录，因此干脆直接换成giscus了。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这里需要感谢&lt;a class=&#34;link&#34; href=&#34;https://github.com/chuxinyuan&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -30,7 +30,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;p&gt;giscus的配置还是相当简单的。&lt;/p&gt;
 &lt;p&gt;首先，准备一个github仓库，这里我用的是原先utterance的仓库。&lt;/p&gt;
 &lt;p&gt;接下来在仓库的设置界面开启 Discussions 功能：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/231119/discussion.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/231119/discussion.png&#34;
 	
 	
 	
@@ -42,7 +42,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &gt;&lt;/p&gt;
 &lt;p&gt;接下来的操作就是相当简单且无脑了，你需要做的就是在 github 上安装 &lt;a class=&#34;link&#34; href=&#34;https://github.com/apps/giscus&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;giscus APP&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/231119/installation.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/231119/installation.png&#34;
 	
 	
 	
@@ -54,7 +54,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &gt;&lt;/p&gt;
 &lt;p&gt;具体的安装过程不再赘述，安装完毕后就只需打开&lt;a class=&#34;link&#34; href=&#34;https://giscus.app&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;giscus官网&lt;/a&gt;，输入具体的仓库名称（或者仓库链接）：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/231119/input.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/231119/input.png&#34;
 	
 	
 	
@@ -65,7 +65,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;若该仓库可用，那么就可以随着官网的说明一步步配置下去。配置完成后便可在 &lt;strong&gt;启用 giscus&lt;/strong&gt; 下找到需要的代码：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/231119/demo.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/231119/demo.png&#34;
 	
 	
 	
@@ -91,7 +91,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;之后再在giscus那栏中填入官网代码中的相应内容即可。&lt;/p&gt;
 &lt;p&gt;当然&lt;code&gt;config.yaml&lt;/code&gt;中缺少了部分选项，你也可以直接将需要的js代码放进&lt;code&gt;./themes/hugo-theme-stack/layouts/partials/comments/provider/giscus.html&lt;/code&gt;里：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/231119/html.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/231119/html.png&#34;
 	
 	
 	
@@ -107,7 +107,7 @@ GitHub Discussions 快速入门&lt;/a&gt;（而且 utterance 把评论全放在 
 &lt;p&gt;utterance 之类使用 Github issue 实现的评论系统的内容是可以转换为相应的 discussion的，详见&lt;a class=&#34;link&#34; href=&#34;https://docs.github.com/zh/discussions/managing-discussions-for-your-community/moderating-discussions#converting-an-issue-to-a-discussion&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;将议题转换为讨论&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;只需在相应库的 issues 界面的 labels 处将相应 label 转换为 discussion 即可（假如没标注的话请自行添加）。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://oxidane-uni.github.io/images/4post/231119/convert.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://exnadio.github.io/images/4post/231119/convert.png&#34;
 	
 	
 	

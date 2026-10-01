@@ -1,4 +1,4 @@
-baseurl: https://oxidane-uni.github.io/
+baseurl: https://exnadio.github.io/
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
@@ -81,7 +81,7 @@ params:
             adminLabel:
 
         utterances:
-            repo: oxidane-uni/forUtterances
+            repo: exnadio/forUtterances
             issueTerm: pathname
             theme: hugo-theme-stack
 
@@ -126,7 +126,7 @@ params:
             siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
         giscus:
-            repo: "oxidane-uni/forBlogdiscussions"
+            repo: "exnadio/forBlogdiscussions"
             repoID: "MDEwOlJlcG9zaXRvcnkzODk2MzU4OTc="
             category: "Announcements"
             categoryID: "DIC_kwDOFzlfOc4CbDbw"
@@ -200,7 +200,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/oxidane-uni
+          url: https://github.com/exnadio
           params:
               icon: brand-github
 
